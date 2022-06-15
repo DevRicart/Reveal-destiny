@@ -31,5 +31,5 @@ function makeQuestion() {
   setTimeout(function () {
     answerElement.style.opacity = 0
     askButton.removeAttribute('disabled')
-  }, 2000)
+  }, 3000)
 }
